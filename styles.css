@@ -1,0 +1,8 @@
+header {
+    display: flex;
+}
+
+ul {
+    background-color: aqua;
+    border: black 5px none;
+}
